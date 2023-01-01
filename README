@@ -1,2 +1,6 @@
 The documentation on this project is in the subdirectory "doc".
 Best is to open the file "doc/html/index.html" in a web browser.
+
+The reason for this fork of the original Sourceforge project is to add back
+in several removed archive formats that were removed in 0.94.x some time.
+Future ideas are to add in support for .m4a and .webm files.
